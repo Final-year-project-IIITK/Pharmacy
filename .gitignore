@@ -21,3 +21,6 @@ tmp/
 *.key
 *.p12
 *.pfx
+backend/Dockerfile
+docker-compose.yml
+docker-compose.production.yml
